@@ -5,5 +5,7 @@ Turi Create simplifies the development of custom machine learning models. You do
 
 By the end we will be able to predict house prices from a given set of data and features.
 
+Pdf resource attached are from @COURSERA
+
 Any queries with the code? Feel free to contribute or email me at - thiyagarajannarmatha@gmail.com
 
